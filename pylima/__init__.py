@@ -1,3 +1,3 @@
-def    la_resta ( x , y ):
-    """Una funcion que resta. """
-    volver  x - y
+def    cuadrado(n):
+    """Una funcion que eleva al cuadrado """
+    return n**2
