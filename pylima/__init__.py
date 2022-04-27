@@ -1,3 +1,3 @@
-def my_sum(x, y):
-    """A function that sums. """
-    return x+y
+def   la_resta ( x , y )
+    """Una función que sumaa. """
+    volver  x - y
